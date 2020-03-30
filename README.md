@@ -33,6 +33,7 @@ point.
 
 ![Image of Yaktocat](maze.jpg)
 
+## Python Code:
 ---
 
 ```python
